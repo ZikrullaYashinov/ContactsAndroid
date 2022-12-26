@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lesson</string>
+    <string name="ismingiz">Ismingiz</string>
+    <string name="raqamingiz">Raqamingiz</string>
+    <string name="save">Save</string>
+</resources>
